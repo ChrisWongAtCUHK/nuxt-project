@@ -3,7 +3,8 @@ yarn generate
 yarn deploy
 ```
 
-[Page Transitions](https://nuxt.com/docs/getting-started/transitions)
+- [Page Transitions](https://nuxt.com/docs/getting-started/transitions)
+- [Nuxt.js 3.x 將靜態網站部署到 GitHub Pages](https://clairechang.tw/2023/10/03/nuxt3/nuxt-v3-static-site-generation/)
 
 # Nuxt Minimal Starter
 
