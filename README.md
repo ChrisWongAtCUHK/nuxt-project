@@ -3,6 +3,8 @@ yarn generate
 yarn deploy
 ```
 
+[Page Transitions](https://nuxt.com/docs/getting-started/transitions)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
