@@ -1,1 +1,0 @@
-import{_ as o}from"./C5P_dl4I.js";import{_ as n,c as a,a as r,b as s,w as _,o as c,d}from"./TgPgHjr5.js";const u={};function l(m,e){const t=o;return c(),a("div",null,[e[1]||(e[1]=r("h1",null,"Home page",-1)),s(t,{to:"/about"},{default:_(()=>e[0]||(e[0]=[d("About page")])),_:1})])}const i=n(u,[["render",l]]);export{i as default};
