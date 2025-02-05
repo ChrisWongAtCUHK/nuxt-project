@@ -6,6 +6,7 @@ yarn deploy
 # Page Transitions
 - [Page Transitions](https://nuxt.com/docs/getting-started/transitions)
 - [Global Settings](https://nuxt.com/docs/getting-started/transitions#global-settings)
+- [nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter/blob/v2/assets/scss/animations/_transitions.scss)
 
 # GitHub Pages
 [Nuxt.js 3.x 將靜態網站部署到 GitHub Pages](https://clairechang.tw/2023/10/03/nuxt3/nuxt-v3-static-site-generation/)
