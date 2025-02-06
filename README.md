@@ -4,6 +4,7 @@ yarn deploy
 ```
 
 - [Nuxt.js 3.x Server 目錄－建立 API](https://clairechang.tw/2023/09/04/nuxt3/nuxt-v3-server/)
+- [實作 API 請求](https://clairechang.tw/2023/09/04/nuxt3/nuxt-v3-server/#%E5%AF%A6%E4%BD%9C-API-%E8%AB%8B%E6%B1%82)
 
 # Page Transitions
 - [Page Transitions](https://nuxt.com/docs/getting-started/transitions)
