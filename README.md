@@ -3,6 +3,8 @@ yarn generate
 yarn deploy
 ```
 
+- [Nuxt.js 3.x Server 目錄－建立 API](https://clairechang.tw/2023/09/04/nuxt3/nuxt-v3-server/)
+
 # Page Transitions
 - [Page Transitions](https://nuxt.com/docs/getting-started/transitions)
 - [Global Settings](https://nuxt.com/docs/getting-started/transitions#global-settings)
