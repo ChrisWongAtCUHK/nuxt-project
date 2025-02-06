@@ -1,0 +1,1 @@
+import{_ as o}from"./BVgtoOz2.js";import{_ as n,c as a,a as r,b as s,w as _,o as c,d}from"./D8CAM2BG.js";const u={};function l(m,e){const t=o;return c(),a("div",null,[e[1]||(e[1]=r("h1",null,"Home page",-1)),s(t,{to:"/about"},{default:_(()=>e[0]||(e[0]=[d("About page")])),_:1})])}const i=n(u,[["render",l]]);export{i as default};
