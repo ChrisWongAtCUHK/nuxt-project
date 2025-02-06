@@ -1,1 +1,0 @@
-import{u as a}from"./COF3ZOpx.js";import{c as t,a as s,t as o,u as r,o as c}from"./BjBrioyg.js";const _={__name:"hello",setup(l){const{data:e}=a("/api/hello","$UtSbjGhzPc");return(n,u)=>(c(),t("div",null,[s("h1",null,o(r(e)),1)]))}};export{_ as default};
