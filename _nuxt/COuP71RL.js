@@ -1,0 +1,1 @@
+import{u as t}from"./_U60_-lz.js";import{c as a,d as o,a as n,t as s,u as p,o as u}from"./J_IJP_i7.js";const m={__name:"nothing",setup(c){const{error:r}=t("/api/nothing","$1bFTJZRxdQ");return(i,e)=>(u(),a("div",null,[e[0]||(e[0]=o(" error: ")),n("pre",null,s(p(r).data),1)]))}};export{m as default};

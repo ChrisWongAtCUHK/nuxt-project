@@ -1,0 +1,1 @@
+import{K as o,c as r,a,t,u as s,o as u}from"./J_IJP_i7.js";import{u as l}from"./_U60_-lz.js";const _={__name:"[id]",setup(i){const n=o(),{data:e}=l(`/api/user/${n.params.id}`,"$hD1Oqbmb6t");return(c,m)=>(u(),r("div",null,[a("div",null,"name: "+t(s(e).name),1),a("div",null,"email: "+t(s(e).email),1),a("div",null,"phone: "+t(s(e).phone),1)]))}};export{_ as default};

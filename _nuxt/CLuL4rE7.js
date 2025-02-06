@@ -1,1 +1,0 @@
-import{u as t}from"./DRgX7xUy.js";import{c as a,d as o,a as n,t as s,u as p,o as u}from"./Bt0_NHK4.js";const m={__name:"nothing",setup(c){const{error:r}=t("/api/nothing","$1bFTJZRxdQ");return(i,e)=>(u(),a("div",null,[e[0]||(e[0]=o(" error: ")),n("pre",null,s(p(r).data),1)]))}};export{m as default};
