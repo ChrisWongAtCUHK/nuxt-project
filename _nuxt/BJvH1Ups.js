@@ -1,0 +1,1 @@
+import{_ as o}from"./Bd4lYwFc.js";import{_ as n,c as a,a as r,b as s,w as _,o as c,d as u}from"./BjBrioyg.js";const d={};function l(m,e){const t=o;return c(),a("div",null,[e[1]||(e[1]=r("h1",null,"About page",-1)),s(t,{to:"/"},{default:_(()=>e[0]||(e[0]=[u("Home page")])),_:1})])}const i=n(d,[["render",l]]);export{i as default};
